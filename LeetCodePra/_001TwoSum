@@ -7,7 +7,7 @@ public class _001TwoSum{
 
     }
 }
-
+//查找算法
 class _001Solution{
     public int[] twoSum(int[] nums, int target){
         int[] result = new int[2];
